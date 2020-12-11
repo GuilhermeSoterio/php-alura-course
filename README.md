@@ -1,5 +1,5 @@
 
-<h1 align="center"><img color=white src="https://api.iconify.design/vscode-icons:file-type-php2.svg" width="70px">Introdução ao PHP</h1>
+<h1 align="center"><img color=white src="https://api.iconify.design/logos:php.svg" width="70px">Introdução ao PHP</h1>
 <p align="center">
 Curso de  introdução ao PHP: Primeiros passos com a linguagem
 </p>
