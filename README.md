@@ -12,13 +12,15 @@ O PHP (um acrônimo recursivo para PHP: Hypertext Preprocessor) é uma linguagem
 #### Porque decidi aprender PHP?
 Para alguém que busca se aprofundar na área de programação web, além de Javascript, PHP tem uma forte atuação nesse território. Embora seja amada por uns e odiadas por outros, 80% da internet atualmente foi criada e tem a sua manutenção em PHP com uma trajetória de quase 20 anos. Além de outras razões como ter uma presença forte no mercado, flexibilidade e comunidade gigantesca, PHP possivelmente será minha lingugagem secundária.
 ## O que  foi desenvolvido no curso?
+
 - O que é o PHP
 - Variáveis e tipos
 - Trabalhando com textos
 - Repetindo decisões
 - Desafios complementares.
 
-## Links
+<h1>Links</h1>
+<hr/>
 
 - Acesso o curso: https://cursos.alura.com.br/course/php-primeiros-passos
 - https://www.linkedin.com/in/guilhermesoterio/
