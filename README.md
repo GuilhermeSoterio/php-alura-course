@@ -19,8 +19,7 @@ Para alguém que busca se aprofundar na área de programação web, além de Jav
 - Repetindo decisões
 - Desafios complementares.
 
-<h1>Links</h1>
-<hr/>
+## Links
 
 - Acesso o curso: https://cursos.alura.com.br/course/php-primeiros-passos
 - https://www.linkedin.com/in/guilhermesoterio/
