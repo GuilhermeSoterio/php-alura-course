@@ -1,5 +1,10 @@
-# Introdução ao PHP
+<h1 align="center">Introdução ao PHP</h1>
+<p align="center">
 Curso de  introdução ao PHP: Primeiros passos com a linguagem
+</p>
+<p align="center">
+        <img width="100%" src="phpp.jpg">
+</p>
 ## Visão Geral
         Repositório criado para armazenar códigos com intuito apenas de aprender.
 O PHP (um acrônimo recursivo para PHP: Hypertext Preprocessor) é uma linguagem de script open source de uso geral, muito utilizada, e especialmente adequada para o desenvolvimento web e que pode ser embutida dentro do HTML.
